@@ -10,12 +10,12 @@
 (6) 與Facebook API結合:讓活動訊息給更多民眾知道。 
 
 
-![Fast Image Cache Logo](http://imgur.com/F3QvZVm)
+![Fast Image Cache Logo](http://imgur.com/F3QvZVm.jpg)
 
-![Fast Image Cache Logo](http://imgur.com/5ga0G1j)
+![Fast Image Cache Logo](http://imgur.com/5ga0G1j.jpg)
 
-![Fast Image Cache Logo](http://imgur.com/TvyD76s)
+![Fast Image Cache Logo](http://imgur.com/TvyD76s.jpg)
 
-![Fast Image Cache Logo](http://imgur.com/YDWicVz)
+![Fast Image Cache Logo](http://imgur.com/YDWicVz.jpg)
 
-![Fast Image Cache Logo](http://imgur.com/AeKB0Tr)
+![Fast Image Cache Logo](http://imgur.com/AeKB0Tr.jpg)
