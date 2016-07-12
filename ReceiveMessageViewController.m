@@ -89,7 +89,7 @@ NSString * _type = [ReceiveRN objectForKey:@"type"];
         }
     }
     
-    //開啟fmdb
+    //開啟fmdb//
     NSMutableArray *_items=[NSMutableArray arrayWithCapacity:0];
     fm=[NSFileManager defaultManager];
     //    paths=NSSearchPathForDirectoriesInDomains(NSDocumentationDirectory, NSUserDomainMask, YES);
